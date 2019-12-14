@@ -1,6 +1,6 @@
-#numpy
+# numpy
 
-###numpy
+## numpy
 
 Numpy is a Python Library for dealing with numerical useful Python package.
 
@@ -20,7 +20,7 @@ numpy.singularize('pheomenon')#returns 'phenomenon'
 ```
 
 ![alt text](http://www.stellaandchewys.com/wp-content/uploads/maplechristmas.jpg)
-
+![alt_sloth](https://www.chinadaily.com.cn/culture/attachement/jpg/site1/20160317/b083fe9562de18544a980b.jpg)
 ##Contributing
 
 ```
